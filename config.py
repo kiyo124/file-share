@@ -28,8 +28,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1871953626"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "https://t.me/+r0m6bOqFP-tiZTg1")
-DB_NAME = os.environ.get("DATABASE_NAME", "Database (luffy bot)")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://luffybot01:<Ilovehack529@#>@cluster0.raxwipv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DATABASE_NAME", "luffybot01)")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "2"))
