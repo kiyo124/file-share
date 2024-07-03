@@ -7,4 +7,5 @@ pymongo
 dnspython
 # --- For-Web-Response ------- #
 aiohttp
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.21.zip
+pyaes==1.6.1
+pysocks==1.7.1
